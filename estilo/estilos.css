@@ -14,8 +14,13 @@ h1{
 }
 
 header{
-  background-color: rgb(79, 212, 72);
+
   border-radius: 70px;
+}
+img{
+  padding-left: 10%;
+  width: 80%;
+  height: 200px;
 }
 
 nav.header{
@@ -65,11 +70,19 @@ footer{
   color:white;
   position: absolute;
   bottom:0;
-  margin-left: 500px;
+  padding-left: 30%;
+padding-right: 30%;
+
+
 }
 
+
 div .mapa{
-  display: inline-block;
-  width: 20%;
+  display: inline-table;
+
+
+
+}div.mafo{
+  background-color: black;
 
 }

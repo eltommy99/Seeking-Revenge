@@ -7,7 +7,7 @@
 </head>
 <body>
   <header>
-       <h1>SEEKING REVENGE</h1>
+      <img src="seekinglogo.jpg">
   </header>
   <nav class="header">
       <ul>

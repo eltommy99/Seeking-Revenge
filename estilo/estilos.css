@@ -68,11 +68,10 @@ article{
 footer{
   text-align: center;
   color:white;
-  position: absolute;
+  position: relative;
 
-  padding-left: 30%;
-padding-right: 30%;
-padding-top: 250px;
+float: center;
+padding-top: 100px;
 
 }
 

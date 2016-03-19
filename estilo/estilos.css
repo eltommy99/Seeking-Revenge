@@ -1,55 +1,65 @@
 body{
   background-color:black;
 }
+
 p{
   color: white;
 }
+
 h1{
   color: rgb(255, 255, 255);
 
   text-align: center;
   border-radius: 70px;
 }
+
 header{
   background-color: rgb(79, 212, 72);
   border-radius: 70px;
-
 }
+
 nav.header{
 text-align: center;
 background-color:rgb(14, 117, 213);
 border-radius: 50px;
 }
+
 li.header{
-    list-style: none;
     display:inline;
     margin: 20px;
 }
+
 li{
 list-style: none;
   margin: 20px;
 }
+
 a{
   color: rgb(238, 237, 49);
+  text-decoration: none;
+}
 
-}
 a:hover{
-  color:rgb(238, 237, 49);
+  color:cyan;
 }
+
 aside{
   float: left;
   background-color:rgb(14, 117, 213);
   border-radius: 30px;
 }
+
 section{
   background-color:cyan;
   border-radius: 30px;
   margin-left: 300px;
   margin-right: 300px;
 }
+
 article{
   margin:20px;
 }
+
 footer{
   text-align: center;
   color:white;
@@ -57,7 +67,9 @@ footer{
   bottom:0;
   margin-left: 500px;
 }
+
 div .mapa{
   display: inline-block;
   width: 20%;
+
 }

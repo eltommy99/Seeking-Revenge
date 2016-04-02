@@ -2,6 +2,7 @@
 #cssmenu {
   background: #000000;
   width: 100%;
+  position: fixed;
 }
 #cssmenu ul {
   list-style: none;
@@ -11,6 +12,7 @@
   display: block;
   zoom: 1;
   text-align: center;
+  box-shadow: 5px 5px 5px rgb(163, 161, 164);
 }
 #cssmenu ul:after {
   content: " ";

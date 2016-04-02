@@ -10,6 +10,7 @@
   line-height: 1;
   display: block;
   zoom: 1;
+  text-align: center;
 }
 #cssmenu ul:after {
   content: " ";

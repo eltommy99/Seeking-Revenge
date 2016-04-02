@@ -23,10 +23,13 @@
         <li><a href="#">Información</a></li>
         <li><a href="#">Tienda</a></li>
         <li><a href="#">Comunidad</a></li>
-        <li><a onclick="myInicio()">INICIAR SESION</a>
+        <li><a onclick="myInicio()">Iniciar Sesión</a>
       </ul>
     </div>
   </nav>
+
+
+    <img src="img/blood-splatter1.png" class="img-responsive" alt="BloodSplatter" width="100%" height="300px">
 
 
    <div id="myModal" class="popinicial">
@@ -47,9 +50,7 @@
   </div>
 
 
-    <div class="container">
-      <img src="img/blood-splatter1.png" class="img-responsive" alt="BloodSplatter" width="100%" height="900px">
-    </div>
+
 
  <script src="script/popupsS.js"></script>
 

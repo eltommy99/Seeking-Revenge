@@ -1,87 +1,11 @@
-body{
-  background-color:black;
-}
 
-p{
-  color: white;
-}
-
-h1{
-  color: rgb(255, 255, 255);
-
-  text-align: center;
-  border-radius: 70px;
-}
-
-header{
-
-  border-radius: 70px;
-}
-img{
-  padding-left: 10%;
-  width: 80%;
-  height: 200px;
-}
-
-nav.header{
-text-align: center;
-background-color:rgb(14, 117, 213);
-border-radius: 50px;
-}
-
-li.header{
-    display:inline;
-    margin: 20px;
-}
-
-li{
-list-style: none;
-  margin: 20px;
-}
-
-a{
-  color: rgb(238, 237, 49);
-  text-decoration: none;
-}
-
-a:hover{
-  color:cyan;
-}
-
-aside{
-  float: left;
-  background-color:rgb(14, 117, 213);
-  border-radius: 30px;
-}
-
-section{
-  background-color:cyan;
-  border-radius: 30px;
-  margin-left: 300px;
-  margin-right: 300px;
-}
-
-article{
-  margin:20px;
-}
 
 footer{
   text-align: center;
-  color:white;
+  
   position: relative;
 
 float: center;
 padding-top: 100px;
-
-}
-
-
-div.mapa{
-  display: inline-table;
-
-
-
-}div.mafo{
-  background-color: black;
 
 }

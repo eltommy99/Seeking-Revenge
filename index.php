@@ -3,37 +3,41 @@
 <head>
      <meta charset="utf-8">
      <title>Seeking Revenge</title>
-
+     <link rel="stylesheet" type="text/css" href="estilo/cssmenu/styles.css" >
      <link rel="stylesheet" type="text/css" href="estilo/index.css" >
      <link rel="stylesheet" type="text/css" href="estilo/estilopopups.css">
+   <!--Abajo estan los estilos de bootstrap para la imagen-->
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
 </head>
 <body>
 <nav>
-  <ul>
-
-    <li><a href="#">Soporte</a></li><hr>
-
-    <li><a href="#">Información</a></li><hr>
-
-    <li><a href="#">Tienda</a></li><hr>
-
-    <li><a href="#">Comunidad</a></li><hr>
-    <li><a href="#">Sesión </a>
-     <ul>
-
-
-       <li><a href="#">Iniciar Sesión</a></li>
-
-       <li><a href="#">Registrarse</a></li>
-
-     </ul>
-    </li><hr>
-
+  <div id='cssmenu'>
+    <ul>
+      <li><a href="#">Soporte</a></li>
+      <li><a href="#">Información</a></li>
+      <li><a href="#">Tienda</a></li>
+      <li><a href="#">Comunidad</a></li>
+      <li><a href="#">Iniciar Sesión</a></li>
+      <li><a href="#">Registrarse</a>
     </ul>
-    </nav>
+  </div>
+</nav>
 
 
-<body  onload="myFunction()">
+
+
+
+
+
+
+  <body  onload="myFunction()">
+    <div class="container">
+      <img src="img/blood-splatter1.png" class="img-responsive" alt="BloodSplatter" width="100%" height="900px">
+    </div>
 
   <div id="myModal" class="modal">
 

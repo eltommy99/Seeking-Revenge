@@ -55,7 +55,7 @@
 
  <script src="script/popupsS.js"></script>
 
-<footer style" color: white;" >
+<footer style="color: white;" >
 2016 Masacre, Inc. Todos los derechos reservados. <br>
 Politica De Privacidad | Terminos De Uso | Foro
 </footer>

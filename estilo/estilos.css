@@ -1,8 +1,13 @@
 
+nav{
+  display: inline-block;
+}
+
+
 
 footer{
   text-align: center;
-  
+
   position: relative;
 
 float: center;

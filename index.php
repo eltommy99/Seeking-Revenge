@@ -32,8 +32,13 @@
     <div id="Modals" class="popsesion">
     <div class="modal-content">
     <span class="closes">×</span>
-    <p class="pop">USUARIO</p> <input type="text" name="Usuario"><br>
-    <p class="pop">CONTRASEÑA</p> <input type="password" name="Contraseña">
+    <form class="" action="index.html" method="post">
+
+
+    <label class="pop">USUARIO <br> <input type="text" name="Usuario"></label><br>
+    <label class="pop">CONTRASEÑA  <br>  <input type="password" name="Contraseña"></label>
+
+    </form>
 
     </div>
 

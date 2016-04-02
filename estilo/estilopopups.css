@@ -30,8 +30,9 @@
     background-color: #fefefe;
     margin: auto;
     padding: 20px;
-    border: 1px solid #888;
-    width: 80%;
+    border: 8px solid  grey ;
+    border-radius: 15px;
+    width: 25%;
 }
 
 /* The Close Button */
@@ -61,8 +62,7 @@
     text-decoration: none;
     cursor: pointer;
 }
-p.pop{
+form{
 text-align: center;
-
 
 }

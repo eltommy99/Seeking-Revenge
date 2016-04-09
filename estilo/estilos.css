@@ -2,14 +2,31 @@
 nav{
   display: inline-block;
 }
+section{
+width: 100%;
+padding-top: 3%;
+padding-left: 35%;
+
+}
+article{
+  width: 40%;
 
 
+}
+h1.article{
+color: white;
+text-align: center;
 
+}
+p.article{
+color: white;
+text-align: justify;
+}
 footer{
   text-align: center;
-
+  background-color: rgb(99, 96, 102);
   position: relative;
-
+color: white;
 float: center;
 padding-top: 100px;
 

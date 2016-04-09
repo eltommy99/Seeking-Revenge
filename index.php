@@ -31,8 +31,7 @@
 
 
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</p>
+
    <div id="myModal" class="popinicial">
       <div class="modal-content">
          <span class="close">×</span>
@@ -53,9 +52,26 @@
 
 
 
+<section>
+<article class="sinopsis">
+  <h1 class="article">Sinopsis</h1>
+  <p class="article">
+    Bienvenido al mundo de la venganza!!!<br><br>
+
+    Estas a punto de comenzar una aventura no muy divertida si eres débil y piadoso.<br><br>
+
+    Esta es la historia de Nerón, un chico huérfano; su padre un cazador que un día salió a trabajar junto con su hermano, pero es asesinado y misteriosamente su hermano llegó sin un solo rasguño con el cuerpo a cuestas y desaparece tras dejarlo en casa. El padre murió sin siquiera saber que su esposa esperaba un hijo de él, la madre al ver el cuerpo sin vida de su esposo entra en trabajo de parto, en el cual tras dar a luz muere.
+
+    Nerón es recibido y criado por un cura cercano a la familia, con él aprende maniobras de defensa personal pues el pueblo donde vivían era un poco peligroso, Nerón demuestra buenas habilidades para el combate.
+
+    Un día Nerón decide que quiere salir del limitado mundo en el pueblo y se va a trabajar como cazarecompensas, pero lo que comienza a descubrir no es algo que imaginó alguna vez y ahora busca respuestas. ¿Qué pasó con su tío? ¿Cómo murió realmente su padre?... Las respuestas no es lo que esperas. Acompaña a Nerón en su busca de la verdad, sí es que puedes…</p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></section>
+
+
+
  <script src="script/popupsS.js"></script>
 
-<footer style="color: white;" >
+<footer  >
 2016 Masacre, Inc. Todos los derechos reservados. <br>
 Politica De Privacidad | Terminos De Uso | Foro
 </footer>
